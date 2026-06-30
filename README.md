@@ -1,2 +1,28 @@
-# 395562eb-cursor-rules-ai-ide-project
-Professional cursor rules Notion template — without the professional price tag.  Pre-built databases, views, and formula fields — ready to duplicate and use. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Cursor Rules &amp; Ai Ide Project Management And Team Collaboration — fully configured and ready to
+# Cursor Rules & AI IDE Project Management and Team Collaboration Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gM6oH4ePe2M8FGbzScZD3l)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM6oH4ePe2M8FGbzScZD3l)
+
